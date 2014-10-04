@@ -18,7 +18,7 @@ Use
 <pre>
 Username: root 
 Password: 5iveL!fe
-<pre>
+</pre>
 to login to gitlab.
 
 
