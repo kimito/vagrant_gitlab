@@ -14,4 +14,12 @@ How to use
 3. Wait until the command ends up...(about 10-20 minutes or so)
 4. Accessing http://localhost:8080/ on the browser, you can start to use gitlab!
 
+Use
+<pre>
+Username: root 
+Password: 5iveL!fe
+<pre>
+to login to gitlab.
+
+
 Getting more about Vagrant, see [Vagrant GETTING STARTED](https://docs.vagrantup.com/v2/getting-started/index.html)
